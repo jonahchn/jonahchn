@@ -9,11 +9,8 @@ I specialize in building and securing cloud architecture. I implement **security
 - 🧬 **Cybersecurity Automation/Actions**
 - 🛰 **SOC2 Readiness | Threat Intelligence | Malware Analysis**
 
-# 💻 Tech Stack 
+## 💻 Tech Stack 
 
-The arsenal I deploy across cybersecurity engineering, automation, DevSecOps pipelines, and beyond.
-
----
 > 🧠 Programming Languages & Scripting
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
