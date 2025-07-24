@@ -1,5 +1,5 @@
 
-# [Jonah Cohen](www.linkedin.com/in/jonahacohen)
+# [Hi! I'm Jonah](www.linkedin.com/in/jonahacohen)
 
 Cybersecurity Engineer | Cyber Security Architecture and Engineering
 
