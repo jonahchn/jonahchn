@@ -1,7 +1,7 @@
 
 # [Hi! I'm Jonah](www.linkedin.com/in/jonahacohen)
 
-Cybersecurity Engineer | Cyber Security Architecture and Engineering
+Cybersecurity Engineer | Cloud Security | Architecture and Engineering
 
 ---
 
