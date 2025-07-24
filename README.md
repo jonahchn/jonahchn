@@ -7,22 +7,15 @@ Cybersecurity Engineer | Cloud Security |  Security Architecture
 
 I specialize in building and securing cloud architecture. I implement **security controls** across cloud and hybrid environments, build **SIEM** systems and other cloud security tools, and employ **scripting** skills for automating security tasks, creating custom security solutions, and enhancing the overall efficiency of security operations.
 
-## 🧠 My Expertise: <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="50" />
+## 🧠 My Expertise: <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="30" />
 - 🧱 **Infrastructure Security | Cloud Posture Auditing (AWS, Azure)**
 - 🔐 **DevSecOps Pipeline Development**
 - 🧬 **AI + Cybersecurity Automation/Actions**
 - 🛰 **SOC2 Readiness | Threat Intelligence | Malware Analysis**
 
-## 🚀 Projects ERA:
-- 🧠 Building LLM-powered AI Security Assistants
-- ※  A2A powered Autonomous Self-Intelligent Generative Interface Layer [[ S.I.G.I.L ]](https://github.com/vaishnavucv/SIGIL) <img src="https://github.com/user-attachments/assets/39378532-52b8-4114-ab81-531c1a7ec300" width="20" /> 
-- 🛡  CyberRange Development for Red/Blue Team engagements. <img src="https://github.com/user-attachments/assets/ce0ab149-70f4-4baf-bfa9-19c81b6a5785" width="20" /> 
-- 🛰  CyberSec Mini Apps, Secure SaaS & CI/CD integrations
-- 🌐 Leading corporate workshops/Live sessions in all Domains in CyberSec
+# 💻 Tech Stack 
 
-# 💻 Tech Stack <img src="https://github.com/user-attachments/assets/4c7fca1f-8ca7-41f0-9dc0-c61d32ecc75d" width="60" /> 
-
-Welcome to the battle deck — here’s the arsenal I deploy across cybersecurity engineering, automation, DevSecOps pipelines, AI integrations, and beyond.
+The arsenal I deploy across cybersecurity engineering, automation, DevSecOps pipelines, AI integrations, and beyond.
 
 ---
 > 🧠 Programming Languages & Scripting
