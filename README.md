@@ -10,12 +10,12 @@ I specialize in building and securing cloud architecture. I implement **security
 ## 🧠 My Expertise: <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="30" />
 - 🧱 **Infrastructure Security | Cloud Posture Auditing (AWS, Azure)**
 - 🔐 **DevSecOps Pipeline Development**
-- 🧬 **AI + Cybersecurity Automation/Actions**
+- 🧬 **Cybersecurity Automation/Actions**
 - 🛰 **SOC2 Readiness | Threat Intelligence | Malware Analysis**
 
 # 💻 Tech Stack 
 
-The arsenal I deploy across cybersecurity engineering, automation, DevSecOps pipelines, AI integrations, and beyond.
+The arsenal I deploy across cybersecurity engineering, automation, DevSecOps pipelines, and beyond.
 
 ---
 > 🧠 Programming Languages & Scripting
