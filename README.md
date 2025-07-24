@@ -33,7 +33,7 @@ The arsenal I deploy across cybersecurity engineering, automation, DevSecOps pip
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=Terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-🧰 Other Tools & DevOps
+🧰 Other Tools & DevSecOps
 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
