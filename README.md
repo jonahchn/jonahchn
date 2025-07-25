@@ -1,5 +1,5 @@
 
-# [Hi! I'm Jonah](www.linkedin.com/in/jonahacohen)
+# Hi! I'm Jonah
 
 I specialize in building and securing cloud architecture. I implement **security controls** across cloud and hybrid environments, build **SIEM** systems and other cloud security tools, and employ **scripting** skills for automating security tasks, creating custom security solutions, and enhancing the overall efficiency of security operations.
 
