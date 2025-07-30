@@ -11,14 +11,14 @@ I specialize in building and securing cloud architecture. I implement **security
 
 ## 💻 Tech Stack 
 
-> 🧠 Programming Languages & Scripting
+🧠 Programming Languages & Scripting
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-> ☁️ Hosting + SaaS</strong></summary>
+☁️ Hosting + SaaS</strong></summary>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
