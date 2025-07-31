@@ -1,7 +1,7 @@
 
 # Hi! I'm Jonah
 
-I specialize in building and securing cloud architecture. I implement **security controls** across cloud and hybrid environments, build and maintain **SIEM** systems and other cloud security tools, and employ **scripting** skills for automating security tasks, creating custom security solutions, and enhancing the overall efficiency of security operations.
+I specialize in building and securing cloud infrastructure. I implement **security controls** across cloud and hybrid environments, build and maintain **SIEM** systems and other cloud security tools, and employ **scripting** skills for automating security tasks, creating custom security solutions, and enhancing the overall efficiency of security operations.
 
 ## 🧠 My Expertise: <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="30" />
 - 🧱 **Infrastructure Security | Cloud Posture Auditing (AWS, Azure)**
