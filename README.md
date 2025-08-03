@@ -41,3 +41,4 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Azure+DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![SecurityHub](https://img.shields.io/badge/SecurityHub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Defender](https://img.shields.io/badge/Defender-%23000000.svg?style=flat&logo=Defender&logoColor=white)
