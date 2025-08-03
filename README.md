@@ -38,4 +38,4 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Sentinel](https://img.shields.io/badge/Sentinel-%230072C6.svg?style=flat&logo=microsoftsentinel&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/Atlassian-%230072C6.svg?style=flat&logo=Atlassian&logoColor=white)
 ![Azure+DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual+Studio+Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
