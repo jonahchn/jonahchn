@@ -36,6 +36,6 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230072C6.svg?style=flat&logo=Jira&logoColor=white)
 ![Azure+DevOps](https://img.shields.io/badge/Azure+DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual+Studio+Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
