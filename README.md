@@ -42,6 +42,5 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![SecurityHub](https://img.shields.io/badge/SecurityHub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Defender](https://img.shields.io/badge/Defender-%23000000.svg?style=flat&logo=Defender&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Entra](https://img.shields.io/badge/Entra-%235391FE.svg?style=flat&logo=entra&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 <a href="https://www.microsoft.com/en-us/security/business/microsoft-entra"><img src="https://img.shields.io/badge/Azure-Entra-%235391FE.svg?logo=microsoftazure&style=popout"></a>
