@@ -8,7 +8,7 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 - 🔐 **DevSecOps Pipeline Development**
 - 🧬 **Cybersecurity Automation/Actions**
 - 🛰 **Incident Detection | Threat Intelligence | Malware Analysis**
--  **Endpoint Log Onboarding & Maintenance**
+- 📊 **Endpoint Log Onboarding & Maintenance**
 
 ## 💻 Tech Stack 
 
