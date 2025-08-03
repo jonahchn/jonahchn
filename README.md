@@ -29,7 +29,7 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 🔁 CI/CD & Version Control
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=GitHub&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Atlassian-%230072C6.svg?style=flat&logo=Atlassian&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-%0052CC.svg?style=flat&logo=Atlassian&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=Terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
