@@ -18,7 +18,7 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-%235835CC.svg?style=flat&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-%235835CC.svg?style=flat&logoColor=white)<a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/Azure-KQL-00B2FF.svg?logo=microsoftazure&style=popout"></a>
 
 ☁️ Hosting + SaaS</strong></summary>
 
