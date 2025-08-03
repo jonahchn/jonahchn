@@ -1,5 +1,5 @@
 
-# Hi! I'm Jonah
+# My Profile
 
 I specialize in building and securing cloud infrastructure. I implement **security controls** across cloud and hybrid environments, build and maintain **SIEM** systems and other cloud security tools, and employ **scripting** skills for automating security tasks, creating custom security solutions, and enhancing the overall efficiency of security operations.
 
