@@ -7,7 +7,7 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 - 🧱 **Infrastructure Security | Cloud Posture Auditing (AWS, Azure)**
 - 🔐 **DevSecOps Pipeline Development**
 - 🤖 **Security Orchestration, Automation, and Response (SOAR)**
-- 🛰 **Incident Detection | Threat Intelligence | Malware Analysis**
+- 🚨 **Incident Response**
 - 📊 **Endpoint Log Onboarding & Maintenance**
 
 ## 💻 Tech Stack 
