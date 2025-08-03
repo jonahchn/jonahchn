@@ -31,16 +31,16 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=GitHub&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/Atlassian-%230072C6.svg?style=flat&logo=Atlassian&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=Terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 🧰 Other Tools & DevSecOps
 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel-%230072C6.svg?style=flat&logo=microsoftsentinel&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Azure-Sentinel-%230072C6.svg?style=flat&logo=microsoftsentinel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![SecurityHub](https://img.shields.io/badge/SecurityHub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![SecurityHub](https://img.shields.io/badge/AWS-SecurityHub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Defender](https://img.shields.io/badge/Defender-%23000000.svg?style=flat&logo=Defender&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 <a href="https://www.microsoft.com/en-us/security/business/microsoft-entra"><img src="https://img.shields.io/badge/Azure-Entra-%235391FE.svg?logo=microsoftazure&style=popout"></a>
