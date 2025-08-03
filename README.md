@@ -31,6 +31,7 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Atlassian](https://img.shields.io/badge/Atlassian-%230072C6.svg?style=flat&logo=Atlassian&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=Terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 🧰 Other Tools & DevSecOps
 
@@ -39,3 +40,4 @@ I specialize in building and securing cloud infrastructure. I implement **securi
 ![Sentinel](https://img.shields.io/badge/Sentinel-%230072C6.svg?style=flat&logo=microsoftsentinel&logoColor=white)
 ![Azure+DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![SecurityHub](https://img.shields.io/badge/SecurityHub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
